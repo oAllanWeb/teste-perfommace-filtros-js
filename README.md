@@ -1,4 +1,4 @@
-# Testando perfomace de filtros com JS
+# Testando performance de filtros com JS
 
 * Rodar
 
